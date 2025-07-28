@@ -70,8 +70,8 @@ We welcome improvements and ideas! Feel free to fork the repo and raise a pull r
 
 ## 🛠️ Authors
 
-Developed by: *[Your Name or Team Name]*  
-Affiliation: *[Your Institution or Organization]*
+Developed by: *Wireless Warriers*  
+Affiliation: *Karunya Institute of Technology and Sciences*
 
 ---
 
