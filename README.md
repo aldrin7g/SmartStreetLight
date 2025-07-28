@@ -55,13 +55,6 @@ Traditional street lighting systems consume excessive energy and require manual 
 
 ---
 
-## 📄 Reference
-
-This project is inspired and backed by research presented in:
-> **"AI-Based Smart Streetlight System using LoRaWAN"**, Springer 2025. *(Include DOI or link if available)*
-
----
-
 ## 📬 Contributing
 
 We welcome improvements and ideas! Feel free to fork the repo and raise a pull request.
